@@ -1,2 +1,2 @@
-# yaz--tura
+# yazi-tura
 html, css, js
